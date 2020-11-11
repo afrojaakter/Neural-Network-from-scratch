@@ -1,4 +1,4 @@
-# References:
+# Reference:
 1. https://adventuresinmachinelearning.com/neural-networks-tutorial/
 2. http://neuralnetworksanddeeplearning.com/chap2.html
 3. http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/
